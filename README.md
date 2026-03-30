@@ -12,20 +12,20 @@
 
 ---
 
-## `> whoami` 🧑‍💻
+## `> /aboutme` 🧑‍💻
 
 ```yaml
 nombre: muraxbl
-rol: Desarrollador Web & Tinkerer Digital
+rol: Junto letras, operadores y capas para comer, cambio pañales por hobby, y por las noches soy Batman
 ubicación: España 🇪🇸
-lema: "Si funciona, no lo toques... es broma, vamos a mejorarlo."
+lema: "Si funciona, siempre podemos estropearlo..."
 ```
 
-Soy un desarrollador al que le gusta **cacharrear** con código. Llevo años trasteando con e-commerce, servidores y todo lo que se ponga por delante. Aquí publico fragmentos, módulos y experimentos que he ido construyendo a lo largo de los años en distintos proyectos y trabajos.
+Me gusta cacharrear con código. Llevo años trabajando con e-commerce, servidores y todo lo que se ponga por delante. Aquí publico fragmentos, módulos y experimentos que he ido construyendo a lo largo del tiempo en distintos proyectos y trabajos.
 
 ---
 
-## 🧰 Lo que vas a encontrar aquí
+## 🧰 /whatsthis
 
 <table>
 <tr>
@@ -40,8 +40,8 @@ Soy un desarrollador al que le gusta **cacharrear** con código. Llevo años tra
 <td width="50%" valign="top">
 
 ### 🔌 WordPress
-- Plugins personalizados
-- Funciones para `functions.php`
+- Plugins
+- Modificaciones para `functions.php`
 - Snippets útiles y reutilizables
 
 </td>
@@ -52,7 +52,7 @@ Soy un desarrollador al que le gusta **cacharrear** con código. Llevo años tra
 ### ⚡ PHP & Backend
 - Implementaciones variadas en PHP
 - Scripts de utilidad y automatización
-- Soluciones a problemas reales
+- Soluciones a problemas reales, pero sobre todo inventados
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,7 @@ Soy un desarrollador al que le gusta **cacharrear** con código. Llevo años tra
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 /whatido/stack
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Soy un desarrollador al que le gusta **cacharrear** con código. Llevo años tra
 
 ---
 
-## 📊 GitHub Stats
+## 📊 /nadaqueverporaqui
 
 <div align="center">
 
@@ -107,23 +107,7 @@ Soy un desarrollador al que le gusta **cacharrear** con código. Llevo años tra
 
 ---
 
-## 🐍 Contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muraxbl/muraxbl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muraxbl/muraxbl/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/muraxbl/muraxbl/output/github-snake-dark.svg" />
-</picture>
-
-> *Para activar la serpiente, configura el [GitHub Action de snake](https://github.com/Platane/snk) en tu repo.*
-
-</div>
-
----
-
-## 📬 Contacto
+## 📬 /contactme
 
 <div align="center">
 
